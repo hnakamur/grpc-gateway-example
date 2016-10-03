@@ -1,7 +1,7 @@
-package server
+package main
 
 import (
-	"context"
+	"golang.org/x/net/context"
 
 	example "github.com/hnakamur/grpc-gateway-example"
 )
